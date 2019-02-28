@@ -1,8 +1,8 @@
-# triviasaurus-master
+# Triviasaurus
 Master holder for frontend and backend of Triviasauru
 A trivia game that allows users to test their knowledge in a variety of categories
 
-# Frontend 
+## Frontend 
 https://github.com/m-migliore/triviasaurus-frontend
-# Backend
+## Backend
 https://github.com/m-migliore/triviasaurus-backend
